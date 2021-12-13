@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Parse markdown",
   "main": "index.js",
+  "repository": "https://github.com/abhi-824/coddiction-markdown-parser",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
