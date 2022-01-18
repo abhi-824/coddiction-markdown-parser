@@ -1,3 +1,2 @@
-function parse(string){
-    return "hello there";
-}
+export const marked=require('marked');
+
